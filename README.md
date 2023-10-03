@@ -33,3 +33,8 @@
     - Unit Testing.
     - Integrated Testing.
     - React Testing Library
+
+## Project is Hosted on the given Link.
+
+-   CORS extension is needed for working of the link.
+-   https://food-ordering-app-dd7f4.web.app
