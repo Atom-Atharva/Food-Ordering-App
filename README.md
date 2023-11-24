@@ -37,4 +37,5 @@
 ## Project is Hosted on the given Link.
 
 -   CORS extension is needed for working of the link.
+-   CORS issue Resolved --> Bypassing link to CORS PROXY check constant.js
 -   https://food-ordering-app-dd7f4.web.app
